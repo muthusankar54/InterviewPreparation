@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$USER_HOME$/Mobile_Gallery/Repo/App_Gallery/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Mobile_Gallery/Repo/App_Gallery/src/main/java/com/boeing/cas/appgallery/common/UploadFileToStorage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Mobile_Gallery/Repo/App_Gallery/src/main/java/com/boeing/cas/appgallery/security/UrlInterceptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Mobile_Gallery/Repo/App_Gallery/src/main/java/com/boeing/cas/appgallery/web/rest/ApplicationRestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Mobile_Gallery/Repo/App_Gallery/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/io/muthu/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/io/muthu/practice/DoublyLinkedList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
