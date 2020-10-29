@@ -34,8 +34,22 @@ public class DoublyLinkedList {
 
         //Insert as Head Node of List
         Node n1 = insertAtBeginning(head,1);
+        insertAtEnd(head,25);
         //DisplayTheList
         displayList(n1);
+    }
+
+    private static Node insertAtEnd(Node head, int i) {
+        if(head==null){
+            Node node = new Node(i);
+            head = node;
+            return head;
+        }
+        else{
+
+        }
+
+        return null;
     }
 
     private static Node insertAtBeginning(Node head,int i) {
